@@ -1,0 +1,3 @@
+# Componentes dentro de componentes
+
+Veamos cómo crear e instanciar [componentes dentro de otros componentes](https://vuejs.org/v2/guide/components-registration.html#Local-Registration) y que estos se comuniquen vía [eventos personalizados](https://vuejs.org/v2/guide/components-custom-events.html#Event-Names) (con un payload específico), además de cómo acceder a la instancia principal u otros componentes gracias a las [propiedades que Vue expone.](https://vuejs.org/v2/api/#Instance-Properties) 
